@@ -42,9 +42,11 @@ padding-top: 20px;
 }
 .Skill {
 padding-top: 55px;
+    position:center;
 
 }
 .footer {
   background-color: #fffeff; 
     padding-bottom: 50px;
+
 }
